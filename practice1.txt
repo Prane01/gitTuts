@@ -1,1 +1,3 @@
-Giving input by *vi practice1* 
+Giving input by *vi practice1*
+-> staged by *git add practice1*
+-> committed means sent to local repositary by *git commit -m "practice1.txt file added"
